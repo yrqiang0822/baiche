@@ -1,0 +1,8 @@
+*{margin:0; padding:0;}
+a{text-decoration:none;}
+.topNav{height:76px; border-top:4px solid rgb(255, 87, 26);}
+.w1200{margin:0 auto; width:1200px;}
+.logo{float:left; margin:0 18px 0 6px; width:82px; height:36px; background:url(./image/11.png);}
+.area{float:left; margin:3px 0; width:82px; height:28px; border:1px solid rgb(237, 237, 237); border-radius:2px;}
+.area span{display:block; padding-left:23px; height:28px; line-height:28px; font-size:14px; color:#666666; cursor:pointer;}
+.area 
